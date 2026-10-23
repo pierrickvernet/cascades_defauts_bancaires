@@ -1,5 +1,3 @@
-# cascades_defauts_bancaires
-
 # Réseaux bancaires et contagion : simuler, prédire, protéger
 
 Hackathon Data Science & Risque, Université de Bordeaux (25 septembre – 23 octobre 2026).
@@ -12,8 +10,8 @@ Les réseaux sont fictifs et le simulateur est un modèle pédagogique simplifi�
 
 ## Auteurs
 
-- Prénom NOM (Vernet) : *à compléter*
-- Prénom NOM (Ricci) : *à compléter*
+- Vernet Pierrick
+- Ricci Louis
 
 ## Contenu du dépôt
 
