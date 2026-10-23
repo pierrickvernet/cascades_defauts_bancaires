@@ -10,8 +10,8 @@ Les réseaux sont fictifs et le simulateur est un modèle pédagogique simplifi�
 
 ## Auteurs
 
-- Vernet Pierrick
-- Ricci Louis
+- Vernet Pierrick - Master 2 IREF - Université de Bordeaux
+- Ricci Louis - Master 2 IREF - Université de Bordeaux
 
 ## Contenu du dépôt
 
